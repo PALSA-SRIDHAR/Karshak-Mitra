@@ -3,7 +3,7 @@ Karshak Mitra is an online platform designed to bridge the gap between farmers a
 
 🌾 Project Overview
 Karshak Mitra enables farmers to take control of their sales by uploading their products, managing inventory, handling orders, and receiving reviews from buyers. Buyers can explore a wide variety of fresh agricultural products directly from the source, place orders, and track their purchases conveniently.
-
+ 
 The platform promotes transparency, fair pricing, and supports local farming communities.
 
 ✨ Key Features
